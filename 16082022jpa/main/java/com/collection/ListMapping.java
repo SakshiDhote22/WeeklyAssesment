@@ -29,7 +29,7 @@ public class ListMapping {
 
 		Employee e1 = new Employee();
 
-		e1.setEmp_no(1);
+		e1.setEmp_no(101);
 
 		e1.setEmp_name("Vijay");
 		
@@ -41,7 +41,7 @@ public class ListMapping {
 
 		Employee e2 = new Employee();
 
-		e2.setEmp_no(2);
+		e2.setEmp_no(102);
 
 		e2.setEmp_name("Vijay");
 		
