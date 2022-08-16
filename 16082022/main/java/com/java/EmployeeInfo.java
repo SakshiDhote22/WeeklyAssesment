@@ -1,3 +1,9 @@
+/*Develop an application using SpringMVC.
+
+try to read employee Information(empno,name,designation,sal ..etc) from the keyboard
+
+and display on webpage*/
+
 package com.java;
 import javax.servlet.http.HttpServletRequest;
 
